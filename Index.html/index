@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+  <title>$SepevsPepe — The First Crypto-Funded Animated Epic</title>
+  <link rel="stylesheet" href="/style.css"/>
+</head>
+<body>
+  <canvas id="lightning-canvas"></canvas>
+  <div class="main-content">
+    <header class="dbz-header">
+      <h1><span class="sepe">Sepe</span> vs <span class="pepe">Pepe</span></h1>
+      <h2>The First Crypto-Funded Animated Epic</h2>
+      <p class="subtitle">More than a token. A myth. A movement. A metaverse epic.</p>
+      <blockquote>
+        <b>"Where Code Becomes Culture."</b>
+      </blockquote>
+      <p>
+        <a href="https://x.com/Yaweh99999" target="_blank" class="x-link">🐉 Follow us on X</a>
+      </p>
+      <nav>
+        <a href="#join" class="cta-button powerup">Join Now</a>
+        <a href="#whitepaper" class="cta-button">Read Whitepaper</a>
+        <a href="#characters" class="cta-button">Explore Characters</a>
+      </nav>
+    </header>
+
+    <section id="about" class="energy-section">
+      <h2>About / Mission</h2>
+      <h3>$SepevsPepe Mission</h3>
+      <ul class="mission-list">
+        <li><b>Title:</b> <i>Sepe vs Pepe: Origins of the Crypto Cosmos</i></li>
+        <li><b>Genre:</b> Animated mythos adventure through the blockchain multiverse</li>
+        <li><b>Theme:</b> The eternal dance between decentralization and standardization, embodied by two legendary figures: Pepe and Super Pepe</li>
+      </ul>
+      <div class="explores">
+        <h4>This film explores:</h4>
+        <ul>
+          <li>🧠 The complexity of algorithmic truth</li>
+          <li>⚖️ The balance between freedom and control</li>
+          <li>🌌 The rise of decentralized dreams</li>
+          <li>🤝 The choice between domination and collaboration</li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="characters" class="energy-section">
+      <h2>Characters</h2>
+      <div class="character-grid">
+        <div class="character-card">
+          <div class="character-emoji">🐸</div>
+          <h3>Pepe — The Sage, The Creator</h3>
+          <ul>
+            <li><b>Represents:</b> Crypto roots, decentralization, open-source philosophy</li>
+            <li><b>Utility Alignment:</b> Education, governance, DAO culture</li>
+          </ul>
+        </div>
+        <div class="character-card">
+          <div class="character-emoji">🦸‍♂️</div>
+          <h3>Super Pepe (Sepe) — The Defender, The Builder</h3>
+          <ul>
+            <li><b>Represents:</b> Scalable tech, memetic power, blockchain infrastructure</li>
+            <li><b>Utility Alignment:</b> Security, platform tools, NFT integration</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="utility" class="energy-section">
+      <h2>Utility</h2>
+      <h3>Why $SepevsPepe Is Unstoppable</h3>
+      <div class="utility-list">
+        <div class="utility-item"><b>🎥 1. Film Funding & Revenue Sharing</b>
+          <ul>
+            <li>Token holders vote on creative direction</li>
+            <li>NFT-based access to behind-the-scenes content</li>
+            <li>Automated smart contract profit-sharing</li>
+          </ul>
+        </div>
+        <div class="utility-item"><b>🧠 2. DAO-Led Mythology Lab</b>
+          <ul>
+            <li>Use $SepevsPepe to propose spinoffs and lore expansions</li>
+            <li>Community-generated stories become official canon</li>
+          </ul>
+        </div>
+        <div class="utility-item"><b>🧰 3. EVO Integration (AI Assistant)</b>
+          <ul>
+            <li>EVO assists holders with AI tools, trading support, and story/meme generation</li>
+            <li>Supports fractal AI art/music features</li>
+          </ul>
+        </div>
+        <div class="utility-item"><b>🛡️ 4. Web3 Infrastructure Ecosystem</b>
+          <ul>
+            <li>DeFi partnerships, staking milestones</li>
+            <li>Wrapped token compatibility across chains</li>
+          </ul>
+        </div>
+        <div class="utility-item"><b>🧬 5. Meme Evolution Engine</b>
+          <ul>
+            <li>Monthly meme battles and voting</li>
+            <li>Winning memes become NFTs and part of official storyline</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="philosophy" class="energy-section">
+      <h2>Philosophy</h2>
+      <h3>Myth Meets Mechanism</h3>
+      <ul>
+        <li>Sovereignty through imagination</li>
+        <li>Utility through lore</li>
+        <li>Identity through decentralized myth</li>
+      </ul>
+      <p class="marvel-nakamoto"><b>It’s Marvel meets Nakamoto.</b></p>
+    </section>
+
+    <section id="tokenomics" class="energy-section">
+      <h2>Tokenomics</h2>
+      <table class="tokenomics-table">
+        <thead>
+          <tr>
+            <th>Use Case</th>
+            <th>Allocation</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td>Film Production</td><td>35%</td></tr>
+          <tr><td>Community Rewards</td><td>20%</td></tr>
+          <tr><td>Liquidity & Exchanges</td><td>15%</td></tr>
+          <tr><td>DAO Treasury</td><td>20%</td></tr>
+          <tr><td>Dev & Ops</td><td>10%</td></tr>
+        </tbody>
+      </table>
+      <p class="tokenomics-note"><i>Tokenomics are subject to DAO governance</i></p>
+    </section>
+
+    <section id="join" class="energy-section call-to-action">
+      <h2>Join the Lore</h2>
+      <h3>Become part of crypto’s first myth-powered media machine.<br/>Own the meme. Shape the myth. Fund the future.</h3>
+      <p><b>$SepevsPepe — The Memetic Mythos Infrastructure</b></p>
+      <div class="join-buttons">
+        <a href="https://x.com/Yaweh99999" target="_blank" class="cta-button powerup">Buy Token</a>
+        <a href="#dao" class="cta-button">Vote on DAO</a>
+        <a href="#watch" class="cta-button">Watch Trailer</a>
+      </div>
+    </section>
+  </div>
+  <script src="/lightning.js"></script>
+</body>
+</html>
